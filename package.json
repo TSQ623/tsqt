@@ -1,0 +1,15 @@
+{
+  "name": "my-time-app",
+  "version": "1.0.0",
+  "description": "A simple time display app built with Parcel",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
